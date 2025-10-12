@@ -1,12 +1,22 @@
-#  Alcoholímetro de Pared para Seguridad Industrial
+# 🚫 Alcoholímetro de Pared para Seguridad Industrial
 
-> **Desarrollado por:** Emily Stephany Del Orbe Espino  
-> **Carrera:** Ingeniería Industrial  
-> **Propósito:** Sistema de seguridad que bloquea el acceso a colaboradores en estado de ebriedad
 ## 📖 Tabla de Contenidos
-- [Propósito del Proyecto](#propósito-del-proyecto)
-- [Componentes y Tecnologías](#componentes-y-tecnologías)
-- [Instalación y Uso](#instalación-y-uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Demostración](#demostración)
-- [Próximas Mejoras](#próximas-mejoras)
+- [🎯 Propósito del Proyecto](#proposito)
+- [🛠️ Componentes y Tecnologías](#componentes)
+- [🔧 Instalación y Uso](#instalacion)
+- [📁 Estructura del Proyecto](#estructura)
+- [🎥 Demostración](#demostracion)
+- [🚀 Próximas Mejoras](#mejoras)
+
+---
+
+## 🎯 Propósito del Proyecto {#proposito}
+Este proyecto nace de la necesidad de garantizar la seguridad en entornos industriales...
+
+## 🛠️ Componentes y Tecnologías {#componentes}
+- Arduino Uno
+- Sensor MQ-3
+- Módulo Relé
+
+## 🔧 Instalación y Uso {#instalacion}
+Pasos para instalar el proyecto...
