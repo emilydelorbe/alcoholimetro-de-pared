@@ -3,7 +3,9 @@
 Proyecto académico de ingeniería para un sistema de seguridad que detecta niveles de alcohol en el aire y activa una alarma cuando supera el límite permitido. Desarrollado como proyecto integrador de conocimientos multidisciplinarios en ingeniería.
 
 Puedo actualizar el repositorio periódicamente mientras continúo mejorando el prototipo. Si tienes preguntas o sugerencias, puedes contactarme.
+
 [instagram](https://www.instagram.com/emilydelorbe/?hl=es)
+
 [LinkedIN](https://www.linkedin.com/in/emily-del-orbe/)
 
 ---
